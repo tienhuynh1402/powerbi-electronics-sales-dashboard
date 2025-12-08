@@ -1,6 +1,6 @@
 # TechVista Electronics - Regional Sales Performance Dashboard
 
-![POWER BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  ![STATUS](https://img.shields.io/badge/Status-Complete-4CAF50?style=for-the-badge)
+![POWER BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![STATUS](https://img.shields.io/badge/Status-Complete-4CAF50?style=for-the-badge)
 
 > Analyzing $2B+ in electronics sales across 4 US regions to uncover performance disparities and drive strategic growth through interactive dashboards and advanced DAX analytics.
 
@@ -72,11 +72,11 @@ The company operates through a network of retail stores and online channels, ser
 
 | Metric | 2021 | 2022 | 2023 | Trend |
 |--------|------|------|------|-------|
-| **Total Sales** | $2.09B | $2.09B | $2.09B |  Flat |
-| **Total Profit** | $450M | $449M | $450M |  Flat |
-| **Profit Margin** | 21.53% | 21.51% | 21.52% |  Stable |
-| **Best Region** | West | West | West |  Consistent Leader |
-| **Top Product** | Laptops | Laptops | Laptops |  Dominant |
+| **Total Sales** | $2.09B | $2.09B | $2.09B | 📊 Flat |
+| **Total Profit** | $450M | $449M | $450M | 📊 Flat |
+| **Profit Margin** | 21.53% | 21.51% | 21.52% | 📊 Stable |
+| **Best Region** | West | West | West | ⬆️ Consistent Leader |
+| **Top Product** | Laptops | Laptops | Laptops | ⬆️ Dominant |
 
 ### Business Impact
 
@@ -91,7 +91,7 @@ The company operates through a network of retail stores and online channels, ser
 
 ### Figure 1: 2021 Sales Overview
 
-![2021 Sales Dashboard](image_path_placeholder_1)
+![2021 Sales Dashboard](./screenshots/2021_Sales_Dashboard.png)
 
 **Analysis**: This baseline view establishes the 2021 performance across all four regions. The West region generated **$0.60B in sales** with Laptops leading at $0.21B. The visualization shows a relatively stable monthly trend with a notable dip in February (down to ~45M) and recovery through the year. Product distribution remains consistent across regions, with Laptops contributing approximately 35% in each market.
 
@@ -104,7 +104,7 @@ The company operates through a network of retail stores and online channels, ser
 
 ### Figure 2: 2021 Profit Performance
 
-![2021 Profit Dashboard](image_path_placeholder_2)
+![2021 Profit Dashboard](./screenshots/2021_Profit_Dashboard.png)
 
 **Analysis**: The profit view reveals significant **regional margin disparities** with West achieving **$149.38M (25% margin)** compared to Midwest's **$80.14M (17.9% margin)**. This visualization highlights that while sales volumes may be similar, operational efficiency varies dramatically. The line chart shows profit trends mirroring sales patterns, indicating consistent margin maintenance throughout the year.
 
@@ -117,7 +117,7 @@ The company operates through a network of retail stores and online channels, ser
 
 ### Figure 3: 2021 Orders Distribution
 
-![2021 Orders Dashboard](image_path_placeholder_3)
+![2021 Orders Dashboard](./screenshots/2021_Orders_Dashboard.png)
 
 **Analysis**: Orders metrics show **West leading with 729.54K orders** while Midwest trails at 464.27K. The per-product breakdown reveals Laptops attracting **0.26M orders** in West despite higher price points, indicating strong market demand. The temporal view shows order volume fluctuations that align with sales patterns, suggesting consistent average order values.
 
@@ -130,7 +130,7 @@ The company operates through a network of retail stores and online channels, ser
 
 ### Figure 4: 2022 Sales with YoY Comparison
 
-![2022 Sales Dashboard](image_path_placeholder_4)
+![2022 Sales Dashboard](./screenshots/2022_Sales_Dashboard.png)
 
 **Analysis**: The 2022 dashboard introduces **YoY comparison metrics** showing mixed performance. West experienced a **slight decline (-0.8M | 0.1% YoY)** despite maintaining market leadership. The South region showed modest growth (+0.5M | 0.1% YoY), while Northeast declined (-2.0M | 0.4% YoY). Product-level metrics reveal Laptops growing in West (+1.9M | 0.9% YoY) while Mobile Phones declined across most regions.
 
@@ -143,7 +143,7 @@ The company operates through a network of retail stores and online channels, ser
 
 ### Figure 5: 2022 Profit with YoY Comparison
 
-![2022 Profit Dashboard](image_path_placeholder_5)
+![2022 Profit Dashboard](./screenshots/2022_Profit_Dashboard.png)
 
 **Analysis**: Profit analysis reveals concerning trends with **West margins declining (-0.5M | 0.3% YoY)** despite sales stability. Midwest showed improvement (+4.2M | 0.9% YoY), suggesting operational efficiency gains. The visualization demonstrates that **profit growth doesn't always align with sales growth**, highlighting the importance of margin management. Regional performance indicators show mixed results with no clear winner.
 
@@ -156,7 +156,7 @@ The company operates through a network of retail stores and online channels, ser
 
 ### Figure 6: 2022 Orders with YoY Comparison
 
-![2022 Orders Dashboard](image_path_placeholder_6)
+![2022 Orders Dashboard](./screenshots/2022_Orders_Dashboard.png)
 
 **Analysis**: Orders data shows slight increases in most regions with **Midwest leading growth (+8.5K | 1.8% YoY)**. West region's order growth (+3.4K | 1.3% YoY) exceeded sales growth, suggesting decreasing average order values or increased promotional activity. The product breakdown reveals Tablets gaining order share (+3.3K | 2.2% YoY in West) while maintaining stable revenues.
 
@@ -169,7 +169,7 @@ The company operates through a network of retail stores and online channels, ser
 
 ### Figure 7: 2023 Orders Trends
 
-![2023 Orders Dashboard](image_path_placeholder_7)
+![2023 Orders Dashboard](./screenshots/2023_Orders_Dashboard.png)
 
 **Analysis**: 2023 orders show **continued flat performance** with West at 723.43K (-3.8K | 0.5% YoY decline). However, product-level analysis reveals interesting shifts: West Tablets surged (+3.3K | 2.2% YoY) while Mobile Phones declined (-1.1K | 0.6% YoY). The temporal trend shows stable monthly patterns with slight variations, suggesting mature market conditions without significant growth catalysts.
 
@@ -182,7 +182,7 @@ The company operates through a network of retail stores and online channels, ser
 
 ### Figure 8: 2023 Profit Analysis
 
-![2023 Profit Dashboard](image_path_placeholder_8)
+![2023 Profit Dashboard](./screenshots/2023_Profit_Dashboard.png)
 
 **Analysis**: Profit performance in 2023 demonstrates **marginal improvements** with West growing (+0.9M | 0.6% YoY) after 2022's decline. Midwest continues its positive trajectory (+0.5M | 0.3% YoY), indicating sustained operational improvements. The visualization shows **Laptops maintaining profitability** (+0.2M | 0.4% YoY in West) while Mobile Phones face margin pressure across regions. Monthly profit trends remain stable without dramatic fluctuations.
 
@@ -195,7 +195,7 @@ The company operates through a network of retail stores and online channels, ser
 
 ### Figure 9: 2023 Sales Performance
 
-![2023 Sales Dashboard](image_path_placeholder_9)
+![2023 Sales Dashboard](./screenshots/2023_Sales_Dashboard.png)
 
 **Analysis**: The final dashboard shows 2023 sales at **$0.60B for West** (+1.1M | 0.2% YoY), essentially unchanged from 2021. This three-year view confirms **growth stagnation** across all regions and products. The product mix remains remarkably stable with Laptops at 35%, Mobile Phones at 26%, Smart Devices at 18%, and Tablets at 21% across all regions. Monthly trends show predictable patterns with February consistently weak and October-December showing slight strengthening.
 
