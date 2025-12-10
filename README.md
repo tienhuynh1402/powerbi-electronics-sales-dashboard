@@ -4,7 +4,7 @@
 
 > Analyzing $2B+ in electronics sales across 4 US regions to uncover performance disparities and drive strategic growth through interactive dashboards and advanced DAX analytics.
 
-[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTEwNDYxMDAtOTBiMi00ZGFmLTg4MWQtNTljY2Y5YjAzOTlkIiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D) | [Documentation](./Documentation_csv_with_descriptions.csv)
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTEwNDYxMDAtOTBiMi00ZGFmLTg4MWQtNTljY2Y5YjAzOTlkIiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D) | [Documentation](./documentation/)
 
 ---
 
